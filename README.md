@@ -24,7 +24,7 @@ This mini tool will analyze web events data over the last 12 months and make rec
 ## D. Analysis
 I will explore data from the last 12 months, from **Jan 2024** to **Jan 2025**. All sessions calculation are based on **session begin time**.
 
-Here are the queries used for the analysis: SQL_Queries [SQL_Queries.sql]
+Here are the queries used for the analysis: [SQL_Queries](https://github.com/litzy-carbajal/SQL_Queries.sql)
 
 
 
