@@ -1,6 +1,6 @@
 # UMG_Prueba_Tecnica
 
-# Analytics tool SQL - BigQuery_theLook eCommerce - How to increase website conversion rate?
+# Analytics tool SQL - How to increase website conversion rate?
 
 ## A. Introduction
 
@@ -26,7 +26,7 @@ I will explore data from the last 12 months, from **Jan 2024** to **Jan 2025**. 
 
 Here are the queries used for the analysis: [SQL_Queries](https://github.com/litzy-carbajal/SQL_Queries.sql)
 
-# Analytics tool Python - Website Conversion Funnel and Traffic Source Analysis Mini Tool
+# Analytics tool Python - Website Conversion Funnel and Traffic Source Analysis
 
 Please click this link: [Website_Conversion_Funnel_and_Traffic_Source_Analysis_Mini_Tool](https://github.com/litzy-carbajal/Website_Conversion_Funnel_and_Traffic_Source_Analysis_Mini_Tool.ipynb)
 
