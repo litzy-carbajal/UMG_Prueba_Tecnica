@@ -24,7 +24,7 @@ This mini tool will analyze web events data over the last 12 months and make rec
 ## D. Analysis
 I will explore data from the last 12 months, from **Jan 2024** to **Jan 2025**. All sessions calculation are based on **session begin time**.
 
-Here are the queries used for the analysis: [SQL_Queries](https://github.com/litzy-carbajal/SQL_Queries.sql)
+Here are the queries used for the analysis: [SQL_Queries]([https://github.com/litzy-carbajal/SQL_Queries.sql](https://github.com/litzy-carbajal/UMG_Prueba_Tecnica/blob/d49eee64af99d1c0e4a305343f1ab645207f20e5/SQL_Queries.sql)
 
 # Analytics tool Python - Website Conversion Funnel and Traffic Source Analysis
 
